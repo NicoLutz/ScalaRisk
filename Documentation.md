@@ -104,5 +104,9 @@ addSbtPlugin("org.scala-sbt.plugins" % "sbt-onejar" % "0.8")
 * add "log4j-1.2.17.jar" into "lib" (download if necessary)
 * select all files --> send to --> zip
 * convert rename .zip to .jar
+* download launch4j: https://sourceforge.net/projects/launch4j/files/launch4j-3/3.11/
+* select .jar and .ico (if wanted)
+* go to "JRE" and into "Min. JRE Version" type "1.4.0"
+* click on the gear symbol
 * enjoy
 
